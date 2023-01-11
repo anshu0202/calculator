@@ -1,0 +1,45 @@
+/* input{
+    display: block;
+}
+.box{
+    
+    border: 2px solid red;
+}
+h1{
+    color: aqua;
+    font-size: 50px;
+}
+.container{
+    display: flex;
+    margin: 0px auto 0px;
+}
+.screen{
+    border: 2px sold yellow;
+}
+table{
+    background-color: aqua;
+} */
+*{
+    margin: 0px;
+}
+.container{
+    border: 2px solid green;
+}
+h1{
+    padding: 20px;
+    color: purple;
+    margin-left: 30%;
+}
+
+.btn{
+    width: 100%;
+    background-color: aqua;
+}
+table{
+    margin: 0px auto;
+    font-size: 20px;
+}
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
